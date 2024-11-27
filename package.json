@@ -1,0 +1,15 @@
+{
+  "name": "medsinal-testes",
+  "version": "1.0.0",
+  "description": "Testes do software da MedSinal",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
