@@ -1,5 +1,5 @@
 # Projeto Integrador: MedSinal
-
+**Pensou em saúde sexual, pensou em MedSinal!**  
 ### Integrantes do Projeto
 - Bruno de Lucas  
 - Marcos Vinícius Nunes  
@@ -91,6 +91,5 @@ pip install tensorflow scikit-learn
 
 ---
 
-Pensou em saúde sexual, pensou em MedSinal!
 
 
