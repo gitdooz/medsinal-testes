@@ -6,11 +6,11 @@
 Centro Universitário Tiradentes - PE <br/>
 Turma E03 - Embarque Digital 2023.1
 ### Integrantes do Projeto
-- Bruno de Lucas  
-- Marcos Vinícius Nunes  
-- Maria Júlia Salgado  
-- Matheus José Dantas  
-- Osmar Menezes
+- [Bruno de Lucas](https://www.linkedin.com/in/brunolcs/),<br/>
+- [Marcos Vinícius Nunes](https://www.linkedin.com/in/marcos-vinícius-83284526b/),<br/>
+- [Maria Júlia Salgado](https://www.linkedin.com/in/salgadomjulia/),<br/>
+- [Matheus José Dantas](https://www.linkedin.com/in/matheusjdantas/),<br/>  
+- [Osmar Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/).
 
 ---
 
