@@ -7,7 +7,6 @@
 - Matheus José Dantas  
 - Osmar Menezes
 
-
 ---
 
 ## Sobre o Projeto
@@ -61,15 +60,14 @@ Copy code
 ---
 
 ## Back-End
-Instale as bibliotecas necessárias:
+1. Instale as bibliotecas necessárias:
 
-bash
-Copy code
+```bash
 pip install numpy pandas flask
-Configure a estrutura do projeto e crie o arquivo app.py com rotas definidas no Flask:
+```
 
-python
-Copy code
+2. Configure a estrutura do projeto e crie o arquivo app.py com rotas definidas no Flask:
+```bash
 from flask import Flask
 
 app = Flask(__name__)
@@ -77,15 +75,22 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return "Bem-vindo ao MedSinal!"
-Execute a aplicação:
+```
 
-bash
-Copy code
+3. Execute a aplicação:
+
+```bash
 python app.py
-3. Modelo de Inteligência Artificial
-Configure o ambiente Python para IA:
-bash
-Copy code
+```
+Modelo de Inteligência Artificial
+1. Configure o ambiente Python para IA:
+```bash
 pip install tensorflow scikit-learn
-Desenvolva o modelo inicial e integre ao projeto utilizando o Flask para comunicação.
+```
+2. Desenvolva o modelo inicial e integre ao projeto utilizando o Flask para comunicação.
+
+---
+
 Pensou em saúde sexual, pensou em MedSinal!
+
+
