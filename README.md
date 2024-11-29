@@ -1,5 +1,10 @@
 # Projeto Integrador: MedSinal
-**Pensou em saúde sexual, pensou em MedSinal!**  
+*Pensou em saúde sexual, pensou em MedSinal!*
+
+---
+
+Centro Universitário Tiradentes - PE <br/>
+Turma E03 - Embarque Digital 2023.1
 ### Integrantes do Projeto
 - Bruno de Lucas  
 - Marcos Vinícius Nunes  
